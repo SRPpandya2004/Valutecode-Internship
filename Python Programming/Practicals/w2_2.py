@@ -11,3 +11,4 @@ if is_palindrome(word)==True:
     print(f"{word} is a palindrome")
 else:
     print(f"{word} is not a palindrome")
+
