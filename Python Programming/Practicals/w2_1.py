@@ -9,6 +9,7 @@ def count_word_frequencies(text):
         freq[word] = freq.get(word, 0) + 1
     return freq
 
+
 # Example usage
 text = "How are you,what are you doing? How are you?"
 frequencies = count_word_frequencies(text)
