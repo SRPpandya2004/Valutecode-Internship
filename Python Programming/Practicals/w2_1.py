@@ -7,6 +7,7 @@ def count_word_frequencies(text):
     for word in words:
         word = word.strip('.,!?";:')
         freq[word] = freq.get(word, 0) + 1
+
     return freq
 
 
