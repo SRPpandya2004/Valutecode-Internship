@@ -1,3 +1,4 @@
+
 # List Manipulation – Square Each Number
 
 def square_list(numbers):
