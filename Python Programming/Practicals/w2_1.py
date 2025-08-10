@@ -1,5 +1,4 @@
 
-
 #1. Write a program to count word frequencies in a given text.
 
 def count_word_frequencies(text):
