@@ -15,3 +15,4 @@ def count_word_frequencies(text):
 text = "How are you,what are you doing? How are you?"
 frequencies = count_word_frequencies(text)
 print(frequencies)
+
